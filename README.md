@@ -6,6 +6,7 @@
 	* [Global SfM](#global_sfm)
 	* [Hierarchical SfM](#hier_sfm)
 	* [Misc](#misc)
+* [Tracking](#tracking)
 
 ### Collection <a name="collection"></a>
 [Awesome 3D Reconstruction List](https://github.com/imkaywu/awesome_3DReconstruction_list).
@@ -40,3 +41,6 @@
 
 #### Misc <a name="misc"></a>
 [Skeletal graphs for efficient structure from motion](http://www.cs.cornell.edu/~snavely/projects/skeletalset/SkeletalSets_cvpr08.pdf), N. Snavely, S. Seitz, R. Szeliski
+
+### Tracking <a name="tracking"></a>
+[Survey of Maneuvering Target Tracking. Part V: Multiple-Model Methods](https://drive.google.com/file/d/1rVkzUp4jY5IelCre9pOg7LY1IdRobZIq/view)
